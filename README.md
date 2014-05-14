@@ -1,2 +1,4 @@
 Black-Jack
 ==========
+
+Console application
