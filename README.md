@@ -1,4 +1,4 @@
-Black-Jack
+Black Jack
 ==========
 
-Console application
+Console Black Jack game written in C++
